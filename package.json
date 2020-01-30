@@ -1,0 +1,11 @@
+{
+	"name": "CFO",
+	"version": "1.0.0",
+	"description": "Puto",
+	"main": "index.js",
+	"author": "Matheusin e Cabelin",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"winston": "^3.2.1"
+	}
+}
